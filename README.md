@@ -1,6 +1,6 @@
 ## reembolso
  
-### Este projeto é um site de reembolsos, desenvolvido em TypeScript, com o objetivo de simular e testar funcionalidades relacionadas a solicitações de reembolso.
+### Este projeto é um site de reembolsos, desenvolvido com Html, Css e JavaScript, com o objetivo de simular e testar funcionalidades relacionadas a solicitações de reembolso.
 
 # funcionalidades
 
