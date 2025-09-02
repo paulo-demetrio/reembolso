@@ -16,7 +16,7 @@ Fluxo simples e direto, focado apenas em testes
 
 # Tecnologias utilizadas
 
-TypeScript → Tipagem estática e segurança no código
+JavaScript → Tipagem estática e segurança no código
 
 Node.js → API para simulação de reembolsos
 
