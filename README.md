@@ -12,12 +12,17 @@ Detalhes de cada reembolso
 
 Cancelamento/remoção de solicitações de teste
 
+Soma de Todas as Despesas
+
 Fluxo simples e direto, focado apenas em testes
 
 # Tecnologias utilizadas
 
 JavaScript → Tipagem estática e segurança no código
 
-Node.js → API para simulação de reembolsos
-
 CSS/Tailwind → Layout simples e responsivo
+
+
+## Uso
+
+Só Clonar e ser Feliz meu Nobre
